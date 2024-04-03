@@ -2,7 +2,7 @@
 - 👀 I am interested in all things that involve technology, I would like to meet people, perhaps make new friends, share knowledge, do business, why not?
 - 🌱 I am currently learning python for my work, and also, I am taking a fullstack course. I have experience in fortran, matlab, 
 - 💞️ I am looking to collaborate on engineering projets, crazy ideas which can revolutionize the world! 
-- 🏄‍♂️ Hobbies: Kitesurf, hiking, Maths, Coding, Music.
+- 🏄‍♂️ Hobbies: Kitesurf, Snowboard, hiking, Maths, Coding, Music.
 - 📫 You can reach me by email: cristian.scarano@gmail.com
 - 👔 https://www.linkedin.com/in/cristian-scarano452/
 
